@@ -45,13 +45,14 @@
 | 项目 | 简介 |
 | :--- | :--- |
 | [Xiaohu 的站点导航](https://thexiaohu.cn) | 竞赛资料、远程摄像头，以及一点日常折腾 |
-| OBS 采集自动重连 | 摄像头拔插后自动恢复画面，不用重新添加来源 |
+| [OBS 采集自动重连](https://github.com/xiaohudasb/obs-auto-reconnect) | 摄像头拔插后自动恢复画面，不用重新添加来源 |
 | 竞赛资料库 | 整理比赛用到的资料、模板与工具链 |
 
 ### 常用工具
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![GD32](https://img.shields.io/badge/GD32-0B5FA5?style=flat-square&logo=arm&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
