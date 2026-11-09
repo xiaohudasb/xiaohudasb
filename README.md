@@ -18,9 +18,9 @@
 
 ### 关于我
 
-- 学生，喜欢嵌入式与硬件，正在把学到的东西一点点做出来
+- 电子信息工程专业大二在读，方向是嵌入式与电子设计
 - 平时折腾 GD32 / STM32，写一点 Python 和 Flask
-- 比赛资料、模板和工具整理在 [thexiaohu.cn](https://thexiaohu.cn)
+- 喜欢自己动手把想法做成能跑起来的东西，比赛资料和笔记整理在 [thexiaohu.cn](https://thexiaohu.cn)
 
 ### 竞赛与获奖
 
